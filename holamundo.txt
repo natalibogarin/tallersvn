@@ -1,4 +1,4 @@
-Hola Mundo
+git merge
 
 init
 git add
@@ -6,3 +6,7 @@ git commit
 git blame
 git log
 git diff
+git diff HEAD
+git checkout -b ramita
+git branch
+git checkout
