@@ -1,1 +1,8 @@
 Hola Mundo
+
+init
+git add
+git commit
+git blame
+git log
+git diff
